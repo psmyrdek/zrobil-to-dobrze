@@ -1,4 +1,4 @@
-# Opanuj Frontend: AI Edition - Frontend Bootstrap
+# Opanuj Frontend: AI Edition - Zrobił To Dobrze
 
 ![](./_resources/img/header.png)
 
